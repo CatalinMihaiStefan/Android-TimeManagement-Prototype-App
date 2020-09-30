@@ -3,3 +3,4 @@
 ## Developers:
 * [Abel Akponine](https://github.com/abelakponine)
 * [Gordon Lai](https://github.com/gordonshlai) 
+* [Catalin Stefan](https://github.com/CatalinMihaiStefan) 
